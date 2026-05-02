@@ -11,8 +11,6 @@ The objective of this project is to transform raw sales data into an easy-to-und
 
 ![Mobile Sales Dashboard](DASHBOARD.png)
 
-> Replace `dashboard.png` with your actual image file name if different.
-
 ---
 
 ## 🚀 Features
